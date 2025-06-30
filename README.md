@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenStormtout&show_icons=true&theme=tokyonight)
+
+### 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=kotaksegitiga&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
