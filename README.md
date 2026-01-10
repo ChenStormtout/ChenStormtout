@@ -19,9 +19,9 @@
 
 ## 🛠️ Tech Stack
 ```text
-💻 Languages: [Your main languages]
-🔧 Tools: [Your favorite tools]
-📚 Currently Learning: [What you're learning now]
+💻 Languages: [C++, Python, SQL, Java]
+🔧 Tools: [DBeaver, Power BI, pgAdmin, Excel]
+📚 Currently Learning: [Data Analyst, Data Engineer]
 ```
 
 ---
