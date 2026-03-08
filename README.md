@@ -8,12 +8,7 @@
 
 ---
 
-## 🚀 About Me
 
-- 🔭 Currently working on exciting projects
-- 🌱 Learning new technologies every day
-- 💡 Passionate about clean code and innovative solutions
-- 🎯 Always open to collaboration and new opportunities
 
 ---
 
