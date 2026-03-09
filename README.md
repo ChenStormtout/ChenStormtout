@@ -67,10 +67,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fcreepy%2Fcomments%2F4x85hb%2Fpocong%2F&psig=AOvVaw1EudYlguwF1oO1XtShl3cw&ust=1773152765369000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKj3p_aCk5MDFQAAAAAdAAAAABAK))
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/your-profile](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fcreepy%2Fcomments%2F4x85hb%2Fpocong%2F&psig=AOvVaw1EudYlguwF1oO1XtShl3cw&ust=1773152765369000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKj3p_aCk5MDFQAAAAAdAAAAABAK))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dewasetya6@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)]([https://your-portfolio.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fcreepy%2Fcomments%2F4x85hb%2Fpocong%2F&psig=AOvVaw1EudYlguwF1oO1XtShl3cw&ust=1773152765369000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKj3p_aCk5MDFQAAAAAdAAAAABAK))
 
 </div>
 
