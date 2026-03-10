@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm DEWAA!
 
-### 💻 Data Enthusiast | 🌱 Continuous Learner | 🚀 Tech Enthusiast
+
 
 </div>
 
@@ -14,9 +14,9 @@
 
 ## 🛠️ Tech Stack
 ```text
-💻 Languages: [C++, Python, SQL, Java]
-🔧 Tools: [DBeaver, Power BI, pgAdmin, Excel]
-📚 Currently Learning: [Data Analyst, Data Engineer]
+ Languages: [C++, Python, SQL, Java]
+ Tools: [DBeaver, Power BI, pgAdmin, Excel]
+ Currently Learning: [Data Analyst, Data Engineer]
 ```
 
 ---
@@ -80,6 +80,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ChenStormtout&color=blueviolet&style=flat-square&label=Profile+Views)
 
-**Thanks for visiting! Have a nice day! 😊**
+
 
 </div>
