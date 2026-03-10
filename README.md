@@ -13,10 +13,10 @@
 ---
 
 ## 🛠️ Tech Stack
-```text
--- Languages: [C++, Python, SQL, Java]
--- Tools: [DBeaver, Power BI, pgAdmin, Excel]
- -- Currently Learning: [Data Analyst, Data Engineer]
+ # #```text
+ # #-- Languages: [C++, Python, SQL, Java]
+ # #-- Tools: [DBeaver, Power BI, pgAdmin, Excel]
+ # #-- Currently Learning: [Data Analyst, Data Engineer]
 ```
 
 ---
